@@ -1,17 +1,14 @@
-# Hi there, I'm Jane V. 👋
+### Hi there, I'm Sophie Vi 👋
 
-### 👩‍💻 On the path to becoming an IT-related worker. | Self-Taught Tech Enthusiast
+### 👩‍💻 On the path to becoming an IT professional | Self-Taught Tech Enthusiast
 
-Đang trên hành trình chinh phục thế giới dữ liệu. Tôi kết hợp tư duy ngôn ngữ nhạy bén, khả năng giao tiếp tốt và kỹ năng tự học công nghệ để tìm kiếm những insight giá trị từ dữ liệu thô.
+On a journey to conquer the world of data. I combine sharp analytical thinking, strong communication skills, and a passion for self-taught technology to uncover valuable insights from raw data. 
 
----
+### 📌 About Me
 
-## 📌 About Me
-- 🔭 **Current Focus:** Đang xây dựng các dự án phân tích dữ liệu thực tế bằng Python và SQL.
-- 🌱 **Learning Path:** Liên tục nâng cao tư duy thống kê, trực quan hóa dữ liệu và kỹ năng Git/GitHub.
-- 💡 **My Advantage:** Khả năng đọc hiểu tài liệu chuyên ngành tiếng Anh xuất sắc, giao tiếp liên phòng ban (cross-functional) mượt mà.
-- 🎯 **Goal:** Trở thành một Data Analyst.
-
----
+* 🔭 **Current Focus:** Building real-world data analysis projects using Python and SQL.
+* 🌱 **Learning Path:** Continuously enhancing statistical thinking, data visualization, and Git/GitHub skills.
+* 💡 **My Advantage:** Excellent comprehension of technical English documentation and seamless cross-functional communication.
+* 🎯 **Goal:** Becoming a Data Analyst.
 
 *“The world is one big data problem.” – Andrew McAfee*
